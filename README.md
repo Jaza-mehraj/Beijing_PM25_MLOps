@@ -44,6 +44,7 @@ pip install -r requirements.txt
 
 - **Practicals 01–05:** Work produced locally, if completed.
 - **Practical 06:** Git version control and project tracking.
+## Reproducibility Git records code and documentation history. DVC will later track datasets and model artifacts.
 
 
 
